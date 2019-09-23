@@ -27,6 +27,3 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
-
-implementation 'com.tomtom.online:sdk-maps:2.4165'
-implementation 'com.tomtom.online:sdk-maps-ui-extensions:2.4165'
